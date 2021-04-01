@@ -1,0 +1,16 @@
+D:\3801\C#\pemrograman\bin\Debug\net5.0\pemrograman.exe
+D:\3801\C#\pemrograman\bin\Debug\net5.0\pemrograman.deps.json
+D:\3801\C#\pemrograman\bin\Debug\net5.0\pemrograman.runtimeconfig.json
+D:\3801\C#\pemrograman\bin\Debug\net5.0\pemrograman.runtimeconfig.dev.json
+D:\3801\C#\pemrograman\bin\Debug\net5.0\pemrograman.dll
+D:\3801\C#\pemrograman\bin\Debug\net5.0\ref\pemrograman.dll
+D:\3801\C#\pemrograman\bin\Debug\net5.0\pemrograman.pdb
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.csprojAssemblyReference.cache
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.AssemblyInfoInputs.cache
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.AssemblyInfo.cs
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.csproj.CoreCompileInputs.cache
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.dll
+D:\3801\C#\pemrograman\obj\Debug\net5.0\ref\pemrograman.dll
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.pdb
+D:\3801\C#\pemrograman\obj\Debug\net5.0\pemrograman.genruntimeconfig.cache
